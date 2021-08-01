@@ -3,7 +3,7 @@
 
 - 🗼 Living in **Ha Noi, Viet Nam**
 
-- 👨‍💻 Currently Working at SVMC
+- 👨‍💻 Currently Working at Samsung Vietnam Mobile R&D Center
 
 - 👍 Travel and Gaming 🎮
 
