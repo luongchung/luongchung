@@ -1,7 +1,4 @@
 ### Hello 👋, I'm Chung 
-
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
-
 ## I'am a software engineer
 
 - 🗼 Living in **Ha Noi, Viet Nam**
