@@ -3,7 +3,9 @@
 
 - 🗼 Living in **Ha Noi, Viet Nam**
 
-- 👨‍💻 Currently Working at Samsung Vietnam Mobile R&D Center
+- 👨‍💻 Currently Working at Viettel Solution
+
+- 👨‍💻 Worked at Samsung Vietnam Mobile R&D Center
 
 - 👍 Travel and Gaming 🎮
 
