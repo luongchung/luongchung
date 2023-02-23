@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'am a software engineer
 ------------------------
 
-🗼 Living in Ha Noi, Viet Nam 
-👨‍💻 Currently Working at Viettel Solution 
-👨‍💻 Worked at Samsung Vietnam Mobile R&D Center 
-👍 Travel and Gaming 🎮
+<p> 🗼 Living in Ha Noi, Viet Nam </p>
+<p> 👨‍💻 Currently Working at Viettel Solution </p>
+<p> 👨‍💻 Worked at Samsung Vietnam Mobile R&D Center </p>
+<p> 👍 Travel and Gaming 🎮</p>
 
-* ✉️  You can contact me at [chunglv42@gmail.com](mailto:chunglv42@gmail.com)
+✉️  You can contact me at [chunglv42@gmail.com](mailto:chunglv42@gmail.com)
 
 <a href="https://www.github.com/luongchung" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/luongchung?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
@@ -49,11 +49,4 @@ src="https://img.shields.io/github/followers/luongchung?logo=github&style=for-th
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/luongchung"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=luongchung&bg_color=22272e&color=ffffff&line=f97316&point=ffffff&area_color=22272e&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/luongchung" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongchung&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
