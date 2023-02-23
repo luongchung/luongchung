@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'am a software engineer
 ------------------------
 
-🗼 Living in Ha Noi, Viet Nam 👨‍💻 Currently Working at Viettel Solution 👨‍💻 Worked at Samsung Vietnam Mobile R&D Center 👍 Travel and Gaming 🎮
+🗼 Living in Ha Noi, Viet Nam 
+👨‍💻 Currently Working at Viettel Solution 
+👨‍💻 Worked at Samsung Vietnam Mobile R&D Center 
+👍 Travel and Gaming 🎮
 
 * ✉️  You can contact me at [chunglv42@gmail.com](mailto:chunglv42@gmail.com)
 
@@ -52,6 +55,5 @@ src="https://img.shields.io/github/followers/luongchung?logo=github&style=for-th
 
 <a href="https://github.com/luongchung" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luongchung&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
 <div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
