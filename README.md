@@ -5,8 +5,8 @@ I'am a software engineer
 ------------------------
 
 <p> 🗼 Living in Ha Noi, Viet Nam </p>
-<p> 👨‍💻 Currently Working at Viettel Solution </p>
-<p> 👨‍💻 Worked at Samsung Vietnam Mobile R&D Center </p>
+<!-- <p> 👨‍💻 Currently Working at Viettel Solution </p>
+<p> 👨‍💻 Worked at Samsung Vietnam Mobile R&D Center </p> -->
 <p> 👍 Travel and Gaming 🎮</p>
 
 ✉️  You can contact me at [chunglv42@gmail.com](mailto:chunglv42@gmail.com)
